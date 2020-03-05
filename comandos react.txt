@@ -1,0 +1,4 @@
+yarn create react-app frontend
+
+git remote add origin https://github.com/tecsaulotavares/frontend-omnistack.git
+git push -u origin master
